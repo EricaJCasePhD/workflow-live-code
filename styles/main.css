@@ -18,6 +18,19 @@ section.snack-list article {
   /*I'd remove this since it's empty but here just for demonstration purposes*/
 }
 
+section.snack-list article img {
+  float: left;
+  /*clear: both;*/
+
+  /*height: ;*/
+  width: 33%;
+}
+
+h4.snack-num {
+  clear: both;
+  /*display: inline; */
+}
+
 footer {
   clear: both;
 }
