@@ -3,3 +3,12 @@ header {
   border: black 1px solid;
   /*border-top: black 1px solid;*/
 }
+
+footer {
+  clear: both;
+}
+
+footer h4, p {
+  display: inline;
+  padding: 15px;
+}
