@@ -4,6 +4,20 @@ header {
   /*border-top: black 1px solid;*/
 }
 
+section.snack-group {
+  border: black 1px solid;
+  border-radius: 25px;
+  margin: 20px 45px;
+  padding: 20px;
+  overflow: hidden;
+}
+
+section.snack-list article {
+  /*display: inline-block;*/
+  /*clear: both;*/
+  /*I'd remove this since it's empty but here just for demonstration purposes*/
+}
+
 footer {
   clear: both;
 }
